@@ -6,11 +6,12 @@ free-mujoco-py
 transformers @ git+https://github.com/huggingface/transformers@772307be7649e1333a933cfaa229dc0dec2fd331
 accelerate==0.26.1
 datasets
+opencv-python
 imageio-ffmpeg
 xvfbwrapper
 imageio
 imageio-ffmpeg
-
+moviepy
 
 
 # absl-py==1.4.0
