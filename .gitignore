@@ -161,7 +161,7 @@ cython_debug/
 #
 
 # Custom gitignore
-.bak
+*.bak
 
 # Jupyter Notebook
 **/.ipynb_checkpoints
