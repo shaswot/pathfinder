@@ -163,6 +163,9 @@ cython_debug/
 # Custom gitignore
 *.bak
 
+# Videos
+*.mp4
+
 # Jupyter Notebook
 **/.ipynb_checkpoints
 **/.idea
