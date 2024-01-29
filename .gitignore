@@ -169,6 +169,7 @@ cython_debug/
 # Jupyter Notebook
 **/.ipynb_checkpoints
 **/.idea
+**/checkpoint-**
 
 # Tensorboard Logs
 **/runs
